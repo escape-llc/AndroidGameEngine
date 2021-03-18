@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/androidgameng/code-0/!svn/ver/38/trunk/AndroidGameEngine/src/com/escape/games/resource
+END
+Framebuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/androidgameng/code-0/!svn/ver/44/trunk/AndroidGameEngine/src/com/escape/games/resource/Framebuffer.java
+END
+Texture.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/androidgameng/code-0/!svn/ver/59/trunk/AndroidGameEngine/src/com/escape/games/resource/Texture.java
+END
+ShaderBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/androidgameng/code-0/!svn/ver/62/trunk/AndroidGameEngine/src/com/escape/games/resource/ShaderBuilder.java
+END
+Shader.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/androidgameng/code-0/!svn/ver/59/trunk/AndroidGameEngine/src/com/escape/games/resource/Shader.java
+END
+GLResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/androidgameng/code-0/!svn/ver/44/trunk/AndroidGameEngine/src/com/escape/games/resource/GLResource.java
+END
+VertexBufferObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/androidgameng/code-0/!svn/ver/44/trunk/AndroidGameEngine/src/com/escape/games/resource/VertexBufferObject.java
+END
+IndexBufferObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/p/androidgameng/code-0/!svn/ver/44/trunk/AndroidGameEngine/src/com/escape/games/resource/IndexBufferObject.java
+END

@@ -1,0 +1,40 @@
+10
+
+dir
+3
+https://svn.code.sf.net/p/androidgameng/code-0/trunk/AndroidGameEngine/src/com/escape/games
+https://svn.code.sf.net/p/androidgameng/code-0
+
+
+
+2013-04-08T00:52:45.880321Z
+3
+escape-llc
+
+
+svn:special svn:externals svn:needs-lock
+
+api
+dir
+
+core
+dir
+
+message
+dir
+
+model
+dir
+
+resource
+dir
+
+service
+dir
+
+task
+dir
+
+view
+dir
+

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/androidgameng/code-0/!svn/ver/5/trunk/AndroidGameEngine/src/com/escape/games/view
+END
+GLSurfaceViewImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/androidgameng/code-0/!svn/ver/50/trunk/AndroidGameEngine/src/com/escape/games/view/GLSurfaceViewImpl.java
+END
+GLGameView.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/p/androidgameng/code-0/!svn/ver/22/trunk/AndroidGameEngine/src/com/escape/games/view/GLGameView.java
+END
+QuitGameDialogFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/p/androidgameng/code-0/!svn/ver/60/trunk/AndroidGameEngine/src/com/escape/games/view/QuitGameDialogFragment.java
+END
+HostSupport.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/androidgameng/code-0/!svn/ver/61/trunk/AndroidGameEngine/src/com/escape/games/view/HostSupport.java
+END
+GameplayFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/androidgameng/code-0/!svn/ver/62/trunk/AndroidGameEngine/src/com/escape/games/view/GameplayFragment.java
+END
+GameplayActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/androidgameng/code-0/!svn/ver/41/trunk/AndroidGameEngine/src/com/escape/games/view/GameplayActivity.java
+END
+GL2GameView.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/p/androidgameng/code-0/!svn/ver/61/trunk/AndroidGameEngine/src/com/escape/games/view/GL2GameView.java
+END

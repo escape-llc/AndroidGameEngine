@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/androidgameng/code-0/!svn/ver/3/trunk/AndroidGameEngine/src/com/escape/games/service
+END
+TimerService.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/p/androidgameng/code-0/!svn/ver/57/trunk/AndroidGameEngine/src/com/escape/games/service/TimerService.java
+END
+ContextResourceLoader.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/p/androidgameng/code-0/!svn/ver/59/trunk/AndroidGameEngine/src/com/escape/games/service/ContextResourceLoader.java
+END
+RenderService.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/p/androidgameng/code-0/!svn/ver/47/trunk/AndroidGameEngine/src/com/escape/games/service/RenderService.java
+END
+RenderServiceImpl.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/p/androidgameng/code-0/!svn/ver/47/trunk/AndroidGameEngine/src/com/escape/games/service/RenderServiceImpl.java
+END
+BuiltinShaders.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/p/androidgameng/code-0/!svn/ver/59/trunk/AndroidGameEngine/src/com/escape/games/service/BuiltinShaders.java
+END

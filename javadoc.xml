@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="protected" author="true" classpath="C:\java\android-sdk-windows\platforms\android-16\android.jar;../JBox2D/dist/JBox2D-2.0.1-b250-Library.jar" destdir="doc" doctitle="Android Game Engine" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.escape.games.service,com.escape.games.message,com.escape.games.view,com.escape.games.task,com.escape.games.core,com.escape.games.api,com.escape.games.model" source="1.5" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
