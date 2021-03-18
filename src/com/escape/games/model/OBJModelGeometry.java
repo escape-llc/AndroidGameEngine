@@ -23,9 +23,6 @@ import android.util.Log;
 import com.escape.games.api.Properties;
 import com.escape.games.api.ResourceLoader;
 import com.escape.games.api.Services;
-import com.escape.games.model.Geometry;
-import com.escape.games.model.InterleavedVertexGeometry;
-import com.escape.games.model.OBJParser;
 import com.escape.games.resource.Shader;
 
 /**

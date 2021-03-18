@@ -15,8 +15,6 @@
  */
 package com.escape.games.model;
 
-import com.escape.games.model.IndexedVertexGeometry;
-
 /**
  * Most-primative cube model with indexed geometry.
  * One-unit-long edges, centered on origin.

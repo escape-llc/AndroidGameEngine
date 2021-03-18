@@ -17,7 +17,6 @@ package com.escape.games.view;
 
 import com.escape.games.message.Constants;
 import com.escape.games.task.GameCycle;
-import com.escape.games.view.GLSurfaceViewImpl;
 
 import android.app.Activity;
 import android.util.Log;

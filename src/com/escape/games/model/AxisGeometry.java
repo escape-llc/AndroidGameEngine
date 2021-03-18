@@ -24,8 +24,6 @@ import android.opengl.GLES20;
 import com.escape.games.api.Properties;
 import com.escape.games.api.ResourceLoader;
 import com.escape.games.api.Services;
-import com.escape.games.model.Geometry;
-import com.escape.games.model.PerVertexMaterial;
 import com.escape.games.resource.Shader;
 
 /**
