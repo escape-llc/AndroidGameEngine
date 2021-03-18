@@ -16,7 +16,6 @@
 package com.escape.games.core;
 
 import com.escape.games.api.SceneRender;
-import com.escape.games.core.GameObject;
 
 /**
  * Sentinel GO (non-locatable) used to notify end of install sequence for a scene.
